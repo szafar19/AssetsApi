@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Asset] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Asset] (Default Constraint)
+       [dbo].[spAsset_Delete] (Procedure)
+       [dbo].[spAsset_Get] (Procedure)
+       [dbo].[spAsset_Insert] (Procedure)
+       [dbo].[spAsset_Update] (Procedure)
+       [dbo].[spAssets_GetAll] (Procedure)
+
+** Supporting actions

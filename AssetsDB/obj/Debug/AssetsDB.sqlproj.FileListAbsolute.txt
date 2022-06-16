@@ -1,0 +1,10 @@
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\bin\Debug\AssetsDB.dacpac
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\bin\Debug\AssetsDB.dll
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\bin\Debug\AssetsDB.pdb
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\obj\Debug\AssetsDB.sqlproj.AssemblyReference.cache
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\obj\Debug\Model.xml
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\obj\Debug\refactor.xml
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\obj\Debug\postdeploy.sql
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\obj\Debug\predeploy.sql
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\obj\Debug\AssetsDB.dll
+C:\Users\szafa\source\repos\AssetsApiApp\AssetsDB\obj\Debug\AssetsDB.pdb
